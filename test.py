@@ -1,4 +1,5 @@
 a = 20
+a = a + 1
 
 
 def test_test_test_test_test_test_test_test_test_test_test_test_test_test(value):
