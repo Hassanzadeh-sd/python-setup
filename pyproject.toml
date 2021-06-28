@@ -1,6 +1,6 @@
 [tool.black]
 py36 = true
-include = '\.py?$'
+include = '\.pyi?$'
 exclude = '''
 /(
     \.git
